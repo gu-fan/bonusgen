@@ -1,4 +1,4 @@
-#Bonus Gen
+# Bonus Gen
 
 A Simple Bonus Generator.
 
