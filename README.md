@@ -12,10 +12,10 @@ also you can change the player\_ratio and bonus\_ratio as your demands
 
 ## example
 
-![image](https://user-images.githubusercontent.com/579129/51132010-23f05b80-186c-11e9-8671-a157c34f6f5f.png =250x)
-![image](https://user-images.githubusercontent.com/579129/51132019-2a7ed300-186c-11e9-9544-1bcc8922877b.png =250x)
-![image](https://user-images.githubusercontent.com/579129/51132035-323e7780-186c-11e9-9f78-c95aeef63140.png =250x)
-![image](https://user-images.githubusercontent.com/579129/51132048-39658580-186c-11e9-8243-c1e59baaf74d.png =250x)
+![image](https://user-images.githubusercontent.com/579129/51132010-23f05b80-186c-11e9-8671-a157c34f6f5f.png =100x20)
+![image](https://user-images.githubusercontent.com/579129/51132019-2a7ed300-186c-11e9-9544-1bcc8922877b.png =100x20)
+![image](https://user-images.githubusercontent.com/579129/51132035-323e7780-186c-11e9-9f78-c95aeef63140.png =100x20)
+![image](https://user-images.githubusercontent.com/579129/51132048-39658580-186c-11e9-8243-c1e59baaf74d.png =100x20)
 
 ## install
 
