@@ -41,9 +41,11 @@ const bonus_ratio = [5,3,1]
 
 const bonus = BonusGen(player_total, bonus_total, player_ratio, bonus_ratio)
 
-console.log(bonus.randomized)
-// []
 
+// randomized bonus array
+console.log(bonus.randomized)
+
+// plain bonus array
 console.log(bonus.plain)
 
 
