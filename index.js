@@ -170,7 +170,7 @@ function randomize(bonus_arr, bonus_total){
 
   // console.log("after %d", sum(bonus_arr) )
 
-  // loop exceeds and cut down /add up each cash by 1
+  // loop exceeds and cut down /add up each bonus by 1
   var exceeds = bonus_total - sum(bonus_arr)
   // console.log("after exceeds %d", exceeds )
   var i = 0
