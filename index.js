@@ -4,7 +4,7 @@ import { ceil, sum, random, range } from './util'
 // divide()
 //
 // divide player_total and bonus_total into 3 parts
-// by player_ratio and bonus_ratio
+// by player_ratio, @default[1,5,10] and bonus_ratio @default[5,2,1]
 // 
 // e.g.:
 //
