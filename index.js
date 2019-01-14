@@ -1,4 +1,3 @@
-import fp from 'lodash/fp'
 import { ceil, sum, random, range } from './util'
 
 // divide()
